@@ -1,2 +1,2 @@
 # single_angular
-Course
+Coursera
